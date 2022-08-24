@@ -18,6 +18,7 @@ app.use(cors());
 app.use(helmet.crossOriginResourcePolicy({ policy: "cross-origin" }));
 app.use(morgan('common'));
 
+// Router for task queries
 app.use("/api/tasks",taskroutes);
 
 app.listen(process.env.PORT||8000,()=>{
