@@ -15,11 +15,11 @@ This project is a webapp for managing Tasks.It has the following functionalities
 
 1) Clone Repository
 2) Move to the client segment and run it.
-    cd client
-    npm start
+    >cd client
+    >npm start
 3) Move to the server segment and run it.
-    cd server
-    npm start
+    >cd server
+    >npm start
 
 ## Tech Stack Used
  - HTML/CSS
