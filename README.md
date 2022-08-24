@@ -1,6 +1,6 @@
 # TaskSense
 
-# Deployed Link : 
+### Deployed Link : 
 https://app.netlify.com/sites/tasksense/settings/general
 
 ## Description
@@ -8,7 +8,8 @@ https://app.netlify.com/sites/tasksense/settings/general
 This project is a webapp for managing Tasks.It has the following functionalities:
 1) User can add new Tasks
 2) User can Edit/Delete existing tasks
-3) User can Search for existing tasks
+3) App can display Pending/Completed tasks based on choice of user.
+4) User can Search for existing tasks
 
 ## Installation/Build
 
