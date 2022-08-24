@@ -1,7 +1,6 @@
 # TaskSense
 
-#### Deployed Link : 
-https://app.netlify.com/sites/tasksense/settings/general
+#### Deployed Link : https://app.netlify.com/sites/tasksense/settings/general
 
 ## Description
 
